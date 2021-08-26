@@ -1,4 +1,4 @@
-### Hi there 👋, Gajen Limbu
+### Hi there 👋, I am Gajen Limbu
 #### Design and Development
 I'm Gajen from Ohio and I do content on Design and Development. I really enjoy learning langauses and framework like React and React Native, as well as work in Rails. I also enjoy wireframing ui, ux and design in genral.
 
