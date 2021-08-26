@@ -1,4 +1,4 @@
-### Hi there https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif, I am Gajen Limbu
+### Hi there 🙋‍♂️, I am Gajen Limbu
 #### Design and Development
 I'm from Ohio and I do content on Design and Development. I really enjoy learning language and framework like React, as well as work in Rails,javascript. I also enjoy wireframing ui, ux and design in genral.
 
