@@ -8,7 +8,7 @@ I'm Gajen from Ohio and I do content on Design and Development. I really enjoy l
 - 📫 How to reach me: gajendmk@gmail.com 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/gazenLim)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/gajenLimbu/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/gazenLim)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/gajen-b28ba2132/)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gazenLim)](https://github.com/anuraghazra/github-readme-stats)
 
